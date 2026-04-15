@@ -1,7 +1,6 @@
 # PLACO
 
 **A workflow for cross-trait pleiotropic association analysis using the PLACO method**
-
 **Authors:** Shi Yao & Xin Ke & Hao Wu
 **Version:** V1.0
 
