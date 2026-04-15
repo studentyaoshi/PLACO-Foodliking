@@ -1,14 +1,14 @@
 # PLACO
 
-**PLACO pipeline for cross-trait pleiotropic association analysis**  
-**Authors:** Shi Yao & Hao Wu  
-**Version:** 2023.08.15
+**A workflow for cross-trait pleiotropic association analysis using the PLACO method**
+**Authors:** Shi Yao & Xin Ke & Hao Wu
+**Version:** V1.0
 
 ---
 
 ## Overview
 
-PLACO is a pipeline for identifying shared genetic loci between two GWAS datasets using the **PLACO (Pleiotropic Analysis under Composite Null Hypothesis)** method.
+This pipeline provides an automated workflow for identifying shared genetic loci between **food liking** and **obesity** using the **PLACO (Pleiotropic Analysis under Composite Null Hypothesis)** method. PLACO is the original statistical method developed by Ray & Chatterjee (2020).
 
 This script automates the following steps:
 
